@@ -21,7 +21,7 @@
 🧠 Aprendendo programação </p>
 </div>
 <p align="center">
-💻Conhecimentos em HTML CSS e JAVA. </p>
+💻Conhecimentos em HTML CSS e PYTHON. </p>
 
 <p align="center">
 <div style="display: inline_block">
